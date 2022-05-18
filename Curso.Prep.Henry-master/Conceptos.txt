@@ -1,0 +1,13 @@
+Variables: una Variable es una forma de almacenar un valor de  algo para usar mas tarde.
+
+string: es un tipo de atributo que se le da al dato que se va a usar en este caso es un bloque de texto, y siempre va definido entre comillas, ya sea simples o dobles.
+
+booleans : provienen de la logica de boole qye tiene dos opciones true o false, o 1 (true ) 0 (false)
+
+return y argumentos: argumentos es todo lo que esta declarado dentro de una variable o funcion.
+return se utiliza para dar fin a la funcion dada, saliendo de esa declaracion y devolviendo un valor especifio
+
+for: genera un bucle el cual va hasta el numero dado o array.lenght declarado hasta que sea false-
+lo operados || &&  ! son or , and y not , or se cumple si 1 es true ; y se cumple si los dos son true ; ! es cuando no es ese dato ingresado regresa el contrario
+
+los arrays son una forma de demostrar una lista o matriz de elementos.
